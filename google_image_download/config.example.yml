@@ -1,0 +1,4 @@
+firefox_path: firefox
+search_term: car
+image_load_delay: 5
+iterate_times: 3
